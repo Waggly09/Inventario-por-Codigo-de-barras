@@ -1,4 +1,4 @@
-# Corrugados
+# Lector de Codigo de barras
 
 Aplicación de escritorio para Windows que permite identificar productos y cajas con un lector USB en modo teclado. El lector envía Enter al terminar cada lectura. La aplicación conserva ceros iniciales y muestra todas las coincidencias cuando un código se comparte entre varios registros.
 
